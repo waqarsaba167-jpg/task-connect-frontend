@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+const API_BASE_URL = "https://task-connect-backend-production.up.railway.app";import React, { useState } from 'react';
 
 export default function App() {
   // Auth State
